@@ -1,1 +1,1 @@
-# wetech-calculator2
+# wetech-calculator
